@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Comunidad Peruana de Otakus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianPumaES6/OtakuPeru.git"
+  },
+  "author": "CristianPumaES6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianPumaES6/OtakuPeru/issues"
+  },
+  "homepage": "https://github.com/CristianPumaES6/OtakuPeru#readme"
+}
